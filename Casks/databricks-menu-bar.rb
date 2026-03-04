@@ -1,6 +1,6 @@
 cask "databricks-menu-bar" do
-  version "1.0.0"
-  sha256 "001c81a0a1dddad7d4dbacf72bc9132c9d477acc2ba395d897619d69da77ed44"
+  version "1.0.1"
+  sha256 "465df256711030db0fbb7e53a14189d706d1fc95114163fc9acd57f0c4862f31"
 
   url "https://github.com/dave-martinez/databricks-menu-bar/releases/download/v#{version}/DatabricksMenuBar.dmg"
   name "Databricks Menu Bar"
